@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/FreeDimensionForge/LowPolyEnvironmentsPack/Art/ForestEnvironmentPack/Scenes/DemoScene_Forest.unity
     guid: c42c3349ba27a67499218ab0175bfde0
   m_configObjects: {}
